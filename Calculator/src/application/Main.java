@@ -19,6 +19,7 @@ public class Main extends Application {
 	@Override
 	public void start(Stage primaryStage) {
 		try {
+			//demo
 			//Testing again
 			VBox v= new VBox();
 			//creating buttons
